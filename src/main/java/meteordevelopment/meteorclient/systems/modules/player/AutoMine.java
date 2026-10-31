@@ -20,3 +20,4 @@ public class AutoMine extends Module {
         BlockUtils.breakBlock(hitResult.getBlockPos(), true);
     }
 }
+
